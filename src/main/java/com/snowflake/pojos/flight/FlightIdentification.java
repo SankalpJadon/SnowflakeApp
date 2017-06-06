@@ -8,6 +8,7 @@ public class FlightIdentification {
 
 	private String iataFlightNumber;
 	
+	private String carrierName;
 	
 	public String getAircraftIdentification() {
 		return aircraftIdentification;
@@ -27,6 +28,12 @@ public class FlightIdentification {
 	}
 	public void setIataFlightNumber(String iataFlightNumber) {
 		this.iataFlightNumber = iataFlightNumber;
+	}
+	public String getCarrierName() {
+		return carrierName;
+	}
+	public void setCarrierName(String carrierName) {
+		this.carrierName = carrierName;
 	}
 	
 }

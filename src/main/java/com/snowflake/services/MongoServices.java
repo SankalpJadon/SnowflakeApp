@@ -10,19 +10,19 @@ import com.snowflake.pojos.icao.IcaoCodes;
 @Component
 public class MongoServices {
 
-	@Autowired private IcaoRepository rep;
 	@Autowired private CustomRepository customRepository;
 	
 	public List<IcaoCodes> getAirports(String city) {
 		
+		@SuppressWarnings("unchecked")
 		List<IcaoCodes> list= (List<IcaoCodes>) customRepository.getListOfAirports(city);
 		return list;
 		
 	}
 	
-	public IcaoCodes getIcao(String city){
-		IcaoCodes code= rep.findByCity(city);
+	public String getIcao(String city){
+		String code= customRepository.getIcao(city).getIcao();
 		return code;
 	}
-	
+
 }

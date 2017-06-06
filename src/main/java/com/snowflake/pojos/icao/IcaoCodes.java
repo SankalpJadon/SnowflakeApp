@@ -1,11 +1,9 @@
 package com.snowflake.pojos.icao;
 
-import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection = "icao")
 public class IcaoCodes {
-	@Id
 	private String icao;
 	private String type;
 	private String name;
