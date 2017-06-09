@@ -16,47 +16,50 @@
 		</div>
 	</form>
 	<script>
+
+  
   $(document).ready(function() {
 
-	$('#originAirport').autocomplete({
-		serviceUrl: '${pageContext.request.contextPath}/getAirports',
-		paramName: "city",
-		delimiter: ",",
-	   transformResult: function(response) {
+		$('#originAirport').autocomplete({
+			serviceUrl: '${pageContext.request.contextPath}/getAirports',
+			paramName: "city",
+			delimiter: ",",
+		   transformResult: function(response) {
 
-		return {
-		  //must convert json to javascript object before process
-		  suggestions: $.map($.parseJSON(response), function(item) {
+			return {
+			  //must convert json to javascript object before process
+			  suggestions: $.map($.parseJSON(response), function(item) {
 
-		      return { value: item.airport, data: item.city };
-		   })
+			      return { value: item.airport, data: item.city };
+			   })
 
-		 };
+			 };
 
-            }
+	            }
 
-	 });
-	
-	$('#destinationAirport').autocomplete({
-		serviceUrl: '${pageContext.request.contextPath}/getAirports',
-		paramName: "city",
-		delimiter: ",",
-	   transformResult: function(response) {
+		 });
+		
+		$('#destinationAirport').autocomplete({
+			serviceUrl: '${pageContext.request.contextPath}/getAirports',
+			paramName: "city",
+			delimiter: ",",
+		   transformResult: function(response) {
 
-		return {
-		  //must convert json to javascript object before process
-		  suggestions: $.map($.parseJSON(response), function(item) {
+			return {
+			  //must convert json to javascript object before process
+			  suggestions: $.map($.parseJSON(response), function(item) {
 
-		      return { value: item.airport, data: item.city };
-		   })
+			      return { value: item.airport, data: item.city };
+			   })
 
-		 };
+			 };
 
-            }
+	            }
 
-	 });
+		 });
 
-  });
+
+	  });
   </script>
 </body>
 </html>
