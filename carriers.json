@@ -1,0 +1,1355 @@
+{"_id":{"$oid":"5934cf3741d04ab0bda18e64"},"code":"\u0026T","name":"Tom's \u0026 co airliners"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e65"},"code":"'","name":"Jayrow"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e66"},"code":"++","name":"Lombards Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e67"},"code":"-+","name":"U.S. Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e68"},"code":"--","name":"ELK Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e69"},"code":"-.","name":"Nazca"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e6a"},"code":"00","name":"AirOne Continental"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e6b"},"code":"01","name":"Bobb Air Freight"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e6c"},"code":"04","name":"Antrak Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e6d"},"code":"07","name":"Samurai Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e6e"},"code":"0A","name":"Amber Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e6f"},"code":"0B","name":"Blue Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e70"},"code":"0D","name":"Darwin Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e71"},"code":"0J","name":"Jetclub"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e72"},"code":"0J","name":"Jetclub"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e73"},"code":"0X","name":"Copenhagen Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e74"},"code":"10","name":"Canadian World"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e75"},"code":"11","name":"TUIfly (X3)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e76"},"code":"12","name":"12 North"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e77"},"code":"1A","name":"Amadeus Global Travel Distribution"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e78"},"code":"1B","name":"Abacus International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e79"},"code":"1C","name":"Electronic Data Systems"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e7a"},"code":"1C","name":"OneChina"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e7b"},"code":"1D","name":"Radixx Solutions International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e7c"},"code":"1E","name":"Travelsky Technology"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e7d"},"code":"1F","name":"INFINI Travel Information"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e7e"},"code":"1F","name":"CB Airways UK ( Interliging Flights )"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e7f"},"code":"1G","name":"Galileo International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e80"},"code":"1H","name":"Siren-Travel"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e81"},"code":"1H","name":"Hellenic Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e82"},"code":"1I","name":"Pegasus Hava Tasimaciligi"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e83"},"code":"1I","name":"Deutsche Rettungsflugwacht"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e84"},"code":"1I","name":"NetJets"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e85"},"code":"1I","name":"Novair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e86"},"code":"1I","name":"Sky Trek International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e87"},"code":"1K","name":"Southern Cross Distribution"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e88"},"code":"1L","name":"Open Skies Consultative Commission"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e89"},"code":"1M","name":"JSC Transport Automated Information Systems"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e8a"},"code":"1N","name":"Navitaire"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e8b"},"code":"1P","name":"Worldspan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e8c"},"code":"1Q","name":"Sirena"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e8d"},"code":"1R","name":"Hainan Phoenix Information Systems"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e8e"},"code":"1S","name":"Sabre"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e8f"},"code":"1T","name":"1Time Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e90"},"code":"1U","name":"ITA Software"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e91"},"code":"1Z","name":"Sabre Pacific"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e92"},"code":"20","name":"Air Salone"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e93"},"code":"2A","name":"Deutsche Bahn"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e94"},"code":"2B","name":"Bars Aero"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e95"},"code":"2C","name":"SNCF"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e96"},"code":"2D","name":"Alaniya Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e97"},"code":"2D","name":"Aero VIP"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e98"},"code":"2F","name":"Frontier Flying Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e99"},"code":"2G","name":"Ангара"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e9a"},"code":"2G","name":"Ангара"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e9b"},"code":"2H","name":"Thalys"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e9c"},"code":"2I","name":"Star Peru (2I)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e9d"},"code":"2J","name":"Air Burkina"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e9e"},"code":"2K","name":"Aerogal"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18e9f"},"code":"2L","name":"Helvetic Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea0"},"code":"2M","name":"Moldavian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea1"},"code":"2N","name":"Yuzhmashavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea2"},"code":"2O","name":"Air Salone"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea3"},"code":"2P","name":"Air Philippines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea4"},"code":"2Q","name":"Air Cargo Carriers"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea5"},"code":"2R","name":"VIA Rail Canada"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea6"},"code":"2S","name":"Star Equatorial Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea7"},"code":"2S","name":"Island Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea8"},"code":"2T","name":"Haiti Ambassador Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ea9"},"code":"2U","name":"Air Guinee Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eaa"},"code":"2W","name":"Welcome Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eab"},"code":"2Z","name":"Changan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eac"},"code":"3B","name":"JobAir"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ead"},"code":"3C","name":"RegionsAir"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eae"},"code":"3E","name":"Air Choice One"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eaf"},"code":"3F","name":"Fly Colombia ( Interliging Flights )"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb0"},"code":"3G","name":"Gambia Bird"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb1"},"code":"3I","name":"Air Comet Chile"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb2"},"code":"3J","name":"Zip"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb3"},"code":"3K","name":"Jetstar Asia Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb4"},"code":"3L","name":"Intersky Luftfahrt"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb5"},"code":"3N","name":"Air Urga"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb6"},"code":"3O","name":"Air Arabia Maroc"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb7"},"code":"3O","name":"Peau Vavaʻu Ltd"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb8"},"code":"3P","name":"Tiara Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eb9"},"code":"3Q","name":"Yunnan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eba"},"code":"3R","name":"Moskovia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ebb"},"code":"3S","name":"Aeroland Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ebc"},"code":"3T","name":"Turan Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ebd"},"code":"3U","name":"Sichuan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ebe"},"code":"3V","name":"TNT Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ebf"},"code":"3W","name":"Euromanx Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec0"},"code":"47","name":"88"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec1"},"code":"4A","name":"Air Kiribati"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec2"},"code":"4C","name":"Aires"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec3"},"code":"4D","name":"Air Sinai"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec4"},"code":"4F","name":"Air City"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec5"},"code":"4G","name":"Gazprom"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec6"},"code":"4G","name":"Gazprom"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec7"},"code":"4H","name":"United Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec8"},"code":"4K","name":"Askari Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ec9"},"code":"4L","name":"Euroline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eca"},"code":"4M","name":"Aero 2000 SA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ecb"},"code":"4N","name":"Air North Charter - Canada"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ecc"},"code":"4O","name":"Interjet (ABC Aerolineas)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ecd"},"code":"4P","name":"Business Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ece"},"code":"4Q","name":"Safi Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ecf"},"code":"4R","name":"Hamburg International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed0"},"code":"4S","name":"Finalair Congo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed1"},"code":"4T","name":"Belair Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed2"},"code":"4U","name":"Germanwings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed3"},"code":"4X","name":"Red Jet Mexico"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed4"},"code":"4Y","name":"Airbus France"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed5"},"code":"4Z","name":"Airlink (SAA)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed6"},"code":"5A","name":"Alpine Air Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed7"},"code":"5C","name":"CAL Cargo Air Lines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed8"},"code":"5D","name":"Aerolitoral"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ed9"},"code":"5D","name":"DonbassAero"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eda"},"code":"5E","name":"SGA Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18edb"},"code":"5F","name":"Arctic Circle Air Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18edc"},"code":"5G","name":"Skyservice Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18edd"},"code":"5H","name":"Five Fourty Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ede"},"code":"5J","name":"Cebu Pacific"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18edf"},"code":"5K","name":"Hi Fly (5K)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee0"},"code":"5K","name":"Hi Fly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee1"},"code":"5L","name":"Aerosur"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee2"},"code":"5M","name":"Sibaviatrans"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee3"},"code":"5N","name":"Nordavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee4"},"code":"5P","name":"Pal airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee5"},"code":"5T","name":"Canadian North"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee6"},"code":"5V","name":"Lviv Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee7"},"code":"5W","name":"Astraeus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee8"},"code":"5X","name":"United Parcel Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ee9"},"code":"5Y","name":"Atlas Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eea"},"code":"5Z","name":"Bismillah Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eeb"},"code":"69","name":"Royal European Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eec"},"code":"6A","name":"Consorcio Aviaxsa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eed"},"code":"6B","name":"TUIfly Nordic"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eee"},"code":"6D","name":"Pelita"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eef"},"code":"6E","name":"IndiGo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef0"},"code":"6F","name":"MAT Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef1"},"code":"6G","name":"Air Wales"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef2"},"code":"6H","name":"Israir"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef3"},"code":"6I","name":"Fly 6ix"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef4"},"code":"6I","name":"International Business Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef5"},"code":"6J","name":"Skynet Asia Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef6"},"code":"6K","name":"Asian Spirit"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef7"},"code":"6N","name":"Nordic Regional"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef8"},"code":"6P","name":"Gryphon Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ef9"},"code":"6P","name":"Club Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18efa"},"code":"6Q","name":"Slovak Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18efb"},"code":"6R","name":"Alrosa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18efc"},"code":"6T","name":"Air Mandalay"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18efd"},"code":"6U","name":"Air Cargo Germany"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18efe"},"code":"6U","name":"Air Ukraine"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18eff"},"code":"6V","name":"Axis Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f00"},"code":"6V","name":"Mars RK"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f01"},"code":"6V","name":"Air Vegas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f02"},"code":"6W","name":"Saratovskii"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f03"},"code":"6Y","name":"SmartLynx Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f04"},"code":"6Z","name":"Ukrainian Cargo Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f05"},"code":"76","name":"Southjet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f06"},"code":"77","name":"Southjet connect"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f07"},"code":"78","name":"Southjet cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f08"},"code":"7A","name":"Aztec Worldwide Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f09"},"code":"7B","name":"Krasnojarsky Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f0a"},"code":"7C","name":"Jeju Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f0b"},"code":"7E","name":"Aeroline GmbH"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f0c"},"code":"7F","name":"First Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f0d"},"code":"7G","name":"Star Flyer"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f0e"},"code":"7H","name":"Era Alaska"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f0f"},"code":"7J","name":"Tajik"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f10"},"code":"7K","name":"Kogalymavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f11"},"code":"7L","name":"Sun D'Or"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f12"},"code":"7M","name":"Mongolian International Air Lines "}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f13"},"code":"7N","name":"Centavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f14"},"code":"7O","name":"Galaxy Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f15"},"code":"7P","name":"Metro Batavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f16"},"code":"7Q","name":"Pan Am World Airways Dominicana"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f17"},"code":"7R","name":"Rusline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f18"},"code":"7T","name":"Air Glaciers"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f19"},"code":"7T","name":"Tobruk Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f1a"},"code":"7W","name":"Wayraper"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f1b"},"code":"7Y","name":"Med Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f1c"},"code":"7Z","name":"Halcyonair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f1d"},"code":"8A","name":"Atlas Blue"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f1e"},"code":"8B","name":"BusinessAir"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f1f"},"code":"8B","name":"Caribbean Star Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f20"},"code":"8C","name":"Air Transport International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f21"},"code":"8C","name":"Shanxi Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f22"},"code":"8C","name":"Air Horizon"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f23"},"code":"8D","name":"Astair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f24"},"code":"8D","name":"Expo Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f25"},"code":"8E","name":"Bering Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f26"},"code":"8F","name":"Fischer Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f27"},"code":"8F","name":"STP Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f28"},"code":"8H","name":"Heli France"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f29"},"code":"8I","name":"Myway Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f2a"},"code":"8J","name":"Jet4You"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f2b"},"code":"8J","name":"Komiinteravia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f2c"},"code":"8L","name":"Cargo Plus Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f2d"},"code":"8L","name":"Redhill Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f2e"},"code":"8M","name":"Myanmar Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f2f"},"code":"8M","name":"Myanmar Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f30"},"code":"8N","name":"Barents AirLink"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f31"},"code":"8O","name":"West Coast Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f32"},"code":"8P","name":"Pacific Coastal Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f33"},"code":"8Q","name":"Princess Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f34"},"code":"8Q","name":"Baker Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f35"},"code":"8Q","name":"Onur Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f36"},"code":"8R","name":"TRIP Linhas A"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f37"},"code":"8S","name":"Scorpio Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f38"},"code":"8T","name":"Air Tindi"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f39"},"code":"8U","name":"AFRIQIYAH AIRWAYS"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f3a"},"code":"8V","name":"Astral Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f3b"},"code":"8V","name":"Wright Air Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f3c"},"code":"8W","name":"BAX Global"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f3d"},"code":"8W","name":"Private Wings Flugcharter"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f3e"},"code":"8Y","name":"China Postal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f3f"},"code":"8Y","name":"Air Burundi"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f40"},"code":"8z","name":"Linea Aerea de Servicio Ejecutivo Regional"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f41"},"code":"8Z","name":"Wizz Air Hungary"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f42"},"code":"99","name":"Ciao Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f43"},"code":"9A","name":"Air Atlantic"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f44"},"code":"9C","name":"China SSS"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f45"},"code":"9E","name":"Pinnacle Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f46"},"code":"9H","name":"MDLR Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f47"},"code":"9I","name":"Thai Sky Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f48"},"code":"9K","name":"Cape Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f49"},"code":"9L","name":"Colgan Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f4a"},"code":"9O","name":"National Airways Cameroon"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f4b"},"code":"9P","name":"Pelangi "}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f4c"},"code":"9Q","name":"PB Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f4d"},"code":"9R","name":"SATENA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f4e"},"code":"9R","name":"Phuket Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f4f"},"code":"9S","name":"Spring Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f50"},"code":"9T","name":"Transwest Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f51"},"code":"9U","name":"Moldova"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f52"},"code":"9W","name":"Jet airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f53"},"code":"9X","name":"Itali Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f54"},"code":"9Y","name":"Air Kazakhstan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f55"},"code":"::","name":"Llloyd Helicopters"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f56"},"code":";;","name":"Wilderness Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f57"},"code":"??","name":"South West Africa Territory Force"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f58"},"code":"??","name":"Court Line"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f59"},"code":"A1","name":"Atifly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f5a"},"code":"A2","name":"Cielos Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f5b"},"code":"A3","name":"Aegean Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f5c"},"code":"A4","name":"Southern Winds Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f5d"},"code":"A5","name":"Airlinair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f5e"},"code":"A6","name":"Air Alps Aviation (A6)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f5f"},"code":"A6","name":"Air Alps Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f60"},"code":"A7","name":"Air Plus Comet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f61"},"code":"A8","name":"Benin Golf Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f62"},"code":"A9","name":"Georgian Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f63"},"code":"AA","name":"American Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f64"},"code":"AB","name":"Berlin Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f65"},"code":"AC","name":"Air Canada"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f66"},"code":"AD","name":"Azul Linhas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f67"},"code":"AD","name":"Azul Linhas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f68"},"code":"AE","name":"Mandarin Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f69"},"code":"AF","name":"Air France"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f6a"},"code":"AG","name":"Air Contractors"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f6b"},"code":"AH","name":"Air Algerie"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f6c"},"code":"AI","name":"Air India"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f6d"},"code":"AJ","name":"Aero Contractors"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f6e"},"code":"AK","name":"AirAsia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f6f"},"code":"AL","name":"Skywalk Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f70"},"code":"AL","name":"Transaviaexport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f71"},"code":"AM","name":"Aeromexico"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f72"},"code":"AN","name":"Ansett Australia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f73"},"code":"AO","name":"Avianova (Russia)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f74"},"code":"AO","name":"Australian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f75"},"code":"AP","name":"Air One"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f76"},"code":"AP","name":"Air One"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f77"},"code":"AQ","name":"Aloha Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f78"},"code":"AR","name":"Argentinas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f79"},"code":"AS","name":"Alaska Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f7a"},"code":"AT","name":"Royal Air Maroc"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f7b"},"code":"AU","name":"AUOS"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f7c"},"code":"AU","name":"Austral Lineas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f7d"},"code":"AV","name":"Avianca"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f7e"},"code":"AW","name":"Asian Wings Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f7f"},"code":"AW","name":"Dirgantara Air Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f80"},"code":"AW","name":"CHC Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f81"},"code":"AX","name":"Trans States Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f82"},"code":"AY","name":"Finnair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f83"},"code":"AZ","name":"Alitalia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f84"},"code":"B0","name":"Aws express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f85"},"code":"B1","name":"Baltic Air lines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f86"},"code":"B2","name":"Belavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f87"},"code":"B3","name":"Bellview Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f88"},"code":"B4","name":"BACH Flugbetriebsges"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f89"},"code":"B4","name":"Bankair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f8a"},"code":"B4","name":"Flyglobespan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f8b"},"code":"B5","name":"East African Safari"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f8c"},"code":"B6","name":"Jetblue Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f8d"},"code":"B7","name":"Uni Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f8e"},"code":"B8","name":"Eritrean Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f8f"},"code":"B9","name":"Air Bangladesh"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f90"},"code":"BA","name":"British Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f91"},"code":"BB","name":"Seaborne Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f92"},"code":"BC","name":"Skymark Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f93"},"code":"BD","name":"Bmi British Midland"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f94"},"code":"BE","name":"FLYBE"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f95"},"code":"BF","name":"Bluebird Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f96"},"code":"BF","name":"Aero-Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f97"},"code":"BG","name":"Biman Bangladesh Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f98"},"code":"BH","name":"Hawkair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f99"},"code":"BI","name":"Royal Brunei"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f9a"},"code":"BJ","name":"Nouvelair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f9b"},"code":"BK","name":"Potomac Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f9c"},"code":"BL","name":"Jetstar Pacific"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f9d"},"code":"BM","name":"Air Sicilia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f9e"},"code":"BM","name":"bmi Regional"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18f9f"},"code":"BM","name":"Bayu Indonesia Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa0"},"code":"BN","name":"Forward Air International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa1"},"code":"BN","name":"Braniff International Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa2"},"code":"BN","name":"Horizon Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa3"},"code":"BO","name":"Bouraq Indonesia Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa4"},"code":"BP","name":"Botswana Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa5"},"code":"BQ","name":"Buquebus Líneas Aéreas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa6"},"code":"BQ","name":"Aeromar"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa7"},"code":"BR","name":"Eva Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa8"},"code":"BS","name":"British International Helicopters"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fa9"},"code":"BT","name":"Baltic Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18faa"},"code":"BU","name":"Blue Sky America"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fab"},"code":"BU","name":"Braathens"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fac"},"code":"BU","name":"Baikotovitchestrian Airlines "}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fad"},"code":"BV","name":"Blue Panorama"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fae"},"code":"BW","name":"Caribbean"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18faf"},"code":"BX","name":"Air Busan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb0"},"code":"BX","name":"Coast Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb1"},"code":"BY","name":"Thomsonfly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb2"},"code":"BZ","name":"Blue Dart Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb3"},"code":"BZ","name":"Black Stallion Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb4"},"code":"BZ","name":"Aero Brazil"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb5"},"code":"BZ","name":"Keystone Air Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb6"},"code":"C0","name":"Centralwings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb7"},"code":"C1","name":"CanXpress"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb8"},"code":"C2","name":"CanXplorer"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fb9"},"code":"C3","name":"ICAR Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fba"},"code":"C3","name":"Contact Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fbb"},"code":"C3","name":"QatXpress"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fbc"},"code":"C4","name":"Zimex Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fbd"},"code":"C4","name":"LionXpress"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fbe"},"code":"C5","name":"CommutAir"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fbf"},"code":"C6","name":"CanJet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc0"},"code":"C7","name":"Sky Wing Pacific"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc1"},"code":"C7","name":"Rico Linhas A"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc2"},"code":"C8","name":"Chicago Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc3"},"code":"C9","name":"Cirrus Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc4"},"code":"CA","name":"AIR CHINA INTERNATIONAL"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc5"},"code":"CB","name":"Suckling Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc6"},"code":"CB","name":"CCML Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc7"},"code":"CC","name":"Air Atlanta Icelandic"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc8"},"code":"CC","name":"Macair Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fc9"},"code":"CD","name":"Air India Regional"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fca"},"code":"CD","name":"Alliance Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fcb"},"code":"CE","name":"Nationwide Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fcc"},"code":"CF","name":"City Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fcd"},"code":"CG","name":"Airlines PNG"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fce"},"code":"CH","name":"Bemidji Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fcf"},"code":"CI","name":"CHINA AIRLINES"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd0"},"code":"CJ","name":"China Northern Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd1"},"code":"CJ","name":"BA CityFlyer"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd2"},"code":"CK","name":"China Cargo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd3"},"code":"CL","name":"Lufthansa CityLine"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd4"},"code":"CM","name":"Copa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd5"},"code":"CN","name":"Islands Nationair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd6"},"code":"CN","name":"Westward Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd7"},"code":"CN","name":"Canadian National Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd8"},"code":"CO","name":"Continental Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fd9"},"code":"CO","name":"Continental Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fda"},"code":"CP","name":"Canadian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fdb"},"code":"CP","name":"Compass Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fdc"},"code":"CQ","name":"Sunshine Express Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fdd"},"code":"CQ","name":"SOCHI AIR"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fde"},"code":"CR","name":"OAG"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fdf"},"code":"CS","name":"Continental Micronesia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe0"},"code":"CT","name":"Alitalia Cityliner"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe1"},"code":"CT","name":"Civil Air Transport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe2"},"code":"CU","name":"Cubana"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe3"},"code":"CV","name":"Cargolux"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe4"},"code":"CV","name":"Air Chathams"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe5"},"code":"CW","name":"Air Marshall Islands"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe6"},"code":"CX","name":"Cathay Pacific"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe7"},"code":"CY","name":"Cyprus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe8"},"code":"CZ","name":"China Southern Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fe9"},"code":"D1","name":"Domenican Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fea"},"code":"D3","name":"Daallo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18feb"},"code":"D4","name":"Alidaunia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fec"},"code":"D5","name":"Skyline nepc"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fed"},"code":"D5","name":"Dauair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fee"},"code":"D6","name":"Interair South Africa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fef"},"code":"D7","name":"Dinar"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff0"},"code":"D7","name":"AirAsia X"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff1"},"code":"D8","name":"Norwegian Air International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff2"},"code":"D9","name":"Aeroflot-Don"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff3"},"code":"DA","name":"Dana Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff4"},"code":"DA","name":"Air Georgia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff5"},"code":"DB","name":"Brit Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff6"},"code":"DC","name":"Golden Air Flyg"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff7"},"code":"DD","name":"Nok Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff8"},"code":"DE","name":"Condor Flugdienst"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ff9"},"code":"DF","name":"Michael Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ffa"},"code":"DG","name":"South East Asian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ffb"},"code":"DH","name":"Dennis Sky"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ffc"},"code":"DH","name":"Discovery Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ffd"},"code":"DH","name":"Independence Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18ffe"},"code":"DI","name":"dba"}
+{"_id":{"$oid":"5934cf3741d04ab0bda18fff"},"code":"DJ","name":"Pacific Blue"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19000"},"code":"DJ","name":"Polynesian Blue"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19001"},"code":"DJ","name":"Virgin Blue"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19002"},"code":"DJ","name":"Virgin Australia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19003"},"code":"DK","name":"Eastland Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19004"},"code":"DL","name":"Delta"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19005"},"code":"DM","name":"Maersk"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19006"},"code":"DN","name":"Senegal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19007"},"code":"DN","name":"Senegal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19008"},"code":"DO","name":"Dominicana de Aviaci"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19009"},"code":"DP","name":"First Choice Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1900a"},"code":"DP","name":"Pobeda"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1900b"},"code":"DQ","name":"Coastal Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1900c"},"code":"DR","name":"Air Mediterranee"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1900d"},"code":"DS","name":"EasyJet (DS)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1900e"},"code":"DT","name":"TAAG Angola Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1900f"},"code":"DU","name":"Hemus Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19010"},"code":"DV","name":"SCAT"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19011"},"code":"DV","name":"SCAT"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19012"},"code":"DV","name":"SCAT"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19013"},"code":"DW","name":"Aero-Charter Ukraine"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19014"},"code":"DX","name":"DAT Danish Air Transport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19015"},"code":"DY","name":"Norwegian Air Shuttle"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19016"},"code":"DZ","name":"Starline.kz"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19017"},"code":"E0","name":"Eos Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19018"},"code":"E1","name":"Usa Sky Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19019"},"code":"E2","name":"Rio Grande Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1901a"},"code":"E2","name":"Kampuchea Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1901b"},"code":"E3","name":"Domodedovo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1901c"},"code":"E4","name":"Elysian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1901d"},"code":"E4","name":"Aero Asia International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1901e"},"code":"E5","name":"Samara Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1901f"},"code":"E5","name":"Air Arabia Egypt"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19020"},"code":"E6","name":"Bringer Air Cargo Taxi Aereo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19021"},"code":"E7","name":"European Aviation Air Charter"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19022"},"code":"E7","name":"Estafeta Carga Aerea"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19023"},"code":"E8","name":"Alpi Eagles (E8)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19024"},"code":"E8","name":"Alpi Eagles"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19025"},"code":"E9","name":"AJT Air International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19026"},"code":"E9","name":"Boston-Maine Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19027"},"code":"EA","name":"European Air Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19028"},"code":"EC","name":"Avialeasing Aviation Company"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19029"},"code":"ED","name":"Airblue"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1902a"},"code":"EE","name":"Aero Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1902b"},"code":"EF","name":"Far Eastern Air Transport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1902c"},"code":"EG","name":"East"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1902d"},"code":"EH","name":"ANA Wings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1902e"},"code":"EH","name":"Euro Harmony"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1902f"},"code":"EH","name":"SAETA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19030"},"code":"EI","name":"Lingus Limited"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19031"},"code":"EJ","name":"New England Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19032"},"code":"EK","name":"Emirates"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19033"},"code":"EL","name":"Air Nippon"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19034"},"code":"EM","name":"Aero Benin"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19035"},"code":"EM","name":"Empire Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19036"},"code":"EN","name":"Dolomiti"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19037"},"code":"EO","name":"Hewa Bora Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19038"},"code":"EO","name":"Express One International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19039"},"code":"EP","name":"Iran Aseman Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1903a"},"code":"EQ","name":"TAME"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1903b"},"code":"ER","name":"Astar Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1903c"},"code":"ES","name":"DHL International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1903d"},"code":"ES","name":"EuropeSky"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1903e"},"code":"ET","name":"Ethiopian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1903f"},"code":"EU","name":"Empresa Ecuatoriana De Aviacion"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19040"},"code":"EV","name":"Atlantic Southeast Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19041"},"code":"EW","name":"Eurowings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19042"},"code":"EX","name":"Air Santo Domingo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19043"},"code":"EY","name":"Etihad"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19044"},"code":"EZ","name":"Evergreen International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19045"},"code":"EZ","name":"Sun Air of Scandinavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19046"},"code":"F1","name":"Fly Brasil"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19047"},"code":"F2","name":"Fly Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19048"},"code":"F3","name":"Faso Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19049"},"code":"F4","name":"Albarka Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1904a"},"code":"F5","name":"Cosmic Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1904b"},"code":"F6","name":"Faroejet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1904c"},"code":"F7","name":"Flybaboo Sa Geneve"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1904d"},"code":"F8","name":"Air2there"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1904e"},"code":"F9","name":"Frontier Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1904f"},"code":"FA","name":"Epic Holiday"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19050"},"code":"FA","name":"Safair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19051"},"code":"FB","name":"Bulgaria Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19052"},"code":"FC","name":"Finncomm Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19053"},"code":"FD","name":"Thai AirAsia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19054"},"code":"FE","name":"Primaris Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19055"},"code":"FF","name":"Airshop"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19056"},"code":"FF","name":"Tower Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19057"},"code":"FG","name":"Ariana Afghan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19058"},"code":"FH","name":"Futura International Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19059"},"code":"FI","name":"Icelandair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1905a"},"code":"FJ","name":"Air Pacific"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1905b"},"code":"FK","name":"Africa West"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1905c"},"code":"FL","name":"AirTran Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1905d"},"code":"FM","name":"Shanghai Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1905e"},"code":"FN","name":"Regional Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1905f"},"code":"FO","name":"Airlines Of Tasmania"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19060"},"code":"FP","name":"Freedom Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19061"},"code":"FQ","name":"Thomas Cook Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19062"},"code":"FR","name":"Ryanair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19063"},"code":"FS","name":"Syphax"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19064"},"code":"FT","name":"Siem Reap Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19065"},"code":"FU","name":"Felix Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19066"},"code":"FV","name":"RUSSIA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19067"},"code":"FW","name":"Ibex Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19068"},"code":"FX","name":"Federal Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19069"},"code":"FY","name":"Firefly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1906a"},"code":"FY","name":"Northwest Regional Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1906b"},"code":"FZ","name":"FLYDUBAI"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1906c"},"code":"G0","name":"Ghana International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1906d"},"code":"G1","name":"Indya Airline Group"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1906e"},"code":"G1","name":"Gorkha Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1906f"},"code":"G2","name":"Avirex"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19070"},"code":"G3","name":"Gol Linhas Aéreas Inteligentes"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19071"},"code":"G4","name":"Allegiant Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19072"},"code":"G5","name":"Huaxia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19073"},"code":"G6","name":"Air Volga"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19074"},"code":"G6","name":"Guine Bissaur Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19075"},"code":"G7","name":"GoJet Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19076"},"code":"G7","name":"Gandalf Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19077"},"code":"G8","name":"Go Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19078"},"code":"G9","name":"Air Arabia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19079"},"code":"GA","name":"Garuda Indonesia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1907a"},"code":"GB","name":"Airborne Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1907b"},"code":"GB","name":"BRAZIL AIR"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1907c"},"code":"GC","name":"Gambia International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1907d"},"code":"GD","name":"Air Alpha Greenland"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1907e"},"code":"GE","name":"TransAsia Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1907f"},"code":"GF","name":"Gulf Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19080"},"code":"GG","name":"Cargo 360"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19081"},"code":"GG","name":"Air Guyane"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19082"},"code":"GG","name":"Air Comores International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19083"},"code":"GH","name":"Globus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19084"},"code":"GI","name":"Itek Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19085"},"code":"GJ","name":"Eurofly Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19086"},"code":"GJ","name":"Compania Mexicargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19087"},"code":"GK","name":"Go One Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19088"},"code":"GL","name":"Miami Air International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19089"},"code":"GL","name":"Air Greenland"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1908a"},"code":"GM","name":"Flitestar"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1908b"},"code":"GM","name":"German International Air Lines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1908c"},"code":"GM","name":"Air Slovakia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1908d"},"code":"GN","name":"GNB Linhas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1908e"},"code":"GN","name":"Air Gabon"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1908f"},"code":"GO","name":"Kuzu Airlines Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19090"},"code":"GP","name":"Gadair European Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19091"},"code":"GP","name":"Gestair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19092"},"code":"GP","name":"Palau Trans Pacific Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19093"},"code":"GQ","name":"Big Sky Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19094"},"code":"GQ","name":"Sky Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19095"},"code":"GR","name":"Aurigny Air Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19096"},"code":"GR","name":"Gemini Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19097"},"code":"GS","name":"Grant Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19098"},"code":"GS","name":"Air Foyle"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19099"},"code":"GT","name":"GB Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1909a"},"code":"GV","name":"Aero Flight"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1909b"},"code":"GW","name":"Kuban Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1909c"},"code":"GX","name":"Pacificair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1909d"},"code":"GX","name":"Jetx Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1909e"},"code":"GY","name":"Sky Bishkek"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1909f"},"code":"GY","name":"Sky Bishkek"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a0"},"code":"GY","name":"Sky Bishkek"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a1"},"code":"GZ","name":"Air Rarotonga"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a2"},"code":"H1","name":"Hahn Air Systems"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a3"},"code":"H2","name":"Sky Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a4"},"code":"H3","name":"Harbour Air (Priv)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a5"},"code":"H3","name":"THREE"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a6"},"code":"H4","name":"Héli Sécurité Helicopter Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a7"},"code":"H4","name":"Inter Islands Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a8"},"code":"H5","name":"Hola Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190a9"},"code":"H5","name":"Mavial Magadan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190aa"},"code":"H5","name":"I-Fly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ab"},"code":"H6","name":"Hageland Aviation Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ac"},"code":"H7","name":"Eagle Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ad"},"code":"H8","name":"Dalavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ae"},"code":"H9","name":"PEGASUS AIRLINES-"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190af"},"code":"H9","name":"Air D'Ayiti"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b0"},"code":"H9","name":"Izair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b1"},"code":"HA","name":"Hawaiian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b2"},"code":"HB","name":"Harbor Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b3"},"code":"HC","name":"Aero-Tropics Air Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b4"},"code":"HC","name":"Himalayan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b5"},"code":"HD","name":"Hokkaido International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b6"},"code":"HE","name":"Luftfahrtgesellschaft Walter"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b7"},"code":"HF","name":"Hapagfly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b8"},"code":"HG","name":"Niki"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190b9"},"code":"HH","name":"Hope Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ba"},"code":"HH","name":"Air Hamburg (AHO)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190bb"},"code":"HI","name":"Papillon Grand Canyon Helicopters"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190bc"},"code":"HJ","name":"Asian Express Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190bd"},"code":"HK","name":"Yangon Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190be"},"code":"HK","name":"Four Star Aviation / Four Star Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190bf"},"code":"HM","name":"Air Seychelles"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c0"},"code":"HN","name":"Hankook Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c1"},"code":"HN","name":"Heavylift Cargo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c2"},"code":"HO","name":"Antinea Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c3"},"code":"HO","name":"Juneyao Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c4"},"code":"HP","name":"Hawaiian Pacific Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c5"},"code":"HP","name":"America West Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c6"},"code":"HP","name":"Pearl Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c7"},"code":"HQ","name":"Harmony Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c8"},"code":"HR","name":"China United Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190c9"},"code":"HR","name":"Hahn Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ca"},"code":"HT","name":"Aeromist-Kharkiv"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190cb"},"code":"HT","name":"Hellenic Imperial Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190cc"},"code":"HU","name":"Hainan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190cd"},"code":"HV","name":"Transavia Holland"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ce"},"code":"HW","name":"Hello"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190cf"},"code":"HW","name":"North-Wright Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d0"},"code":"HX","name":"Hong Kong Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d1"},"code":"HY","name":"Uzbekistan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d2"},"code":"HZ","name":"Aurora"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d3"},"code":"I2","name":"Iberia Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d4"},"code":"I4","name":"Interstate Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d5"},"code":"I5","name":"Compagnie Aerienne Du Mali"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d6"},"code":"I6","name":"MexicanaLink"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d7"},"code":"I6","name":"Sky Eyes"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d8"},"code":"I7","name":"Paramount Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190d9"},"code":"I9","name":"Air Italy"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190da"},"code":"I9","name":"Indigo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190db"},"code":"IA","name":"Iraqi Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190dc"},"code":"IB","name":"Iberia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190dd"},"code":"IC","name":"Indian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190de"},"code":"ID","name":"Interlink Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190df"},"code":"IE","name":"Solomon Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e0"},"code":"IF","name":"Islas Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e1"},"code":"IG","name":"Meridiana"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e2"},"code":"IH","name":"Falcon Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e3"},"code":"II","name":"IBC Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e4"},"code":"II","name":"LSM International "}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e5"},"code":"IJ","name":"Transport Aérien Transrégional"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e6"},"code":"IJ","name":"Great Wall Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e7"},"code":"IJ","name":"InteliJet Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e8"},"code":"IK","name":"Imair Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190e9"},"code":"IK","name":"Lankair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ea"},"code":"IL","name":"Illinois Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190eb"},"code":"IL","name":"Fly Illi"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ec"},"code":"IM","name":"Menajet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ed"},"code":"IN","name":"JSC Aircompany"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ee"},"code":"IO","name":"Irairo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ef"},"code":"IP","name":"Island Spirit"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f0"},"code":"IP","name":"Atyrau Air Ways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f1"},"code":"IQ","name":"Augsburg Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f2"},"code":"IR","name":"Iran Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f3"},"code":"IS","name":"Island Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f4"},"code":"IT","name":"Kingfisher"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f5"},"code":"IV","name":"Wind Jet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f6"},"code":"IW","name":"AOM French Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f7"},"code":"IW","name":"Wings Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f8"},"code":"IX","name":"Air India Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190f9"},"code":"IY","name":"Yemenia Yemen"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190fa"},"code":"IZ","name":"Arkia Israeli Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190fb"},"code":"J2","name":"Azerbaijan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190fc"},"code":"J3","name":"Northwestern Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190fd"},"code":"J4","name":"ALAK"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190fe"},"code":"J4","name":"Buffalo Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda190ff"},"code":"J5","name":"Alaska Seaplane Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19100"},"code":"J6","name":"AVCOM"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19101"},"code":"J7","name":"Centre-Avia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19102"},"code":"J8","name":"Berjaya"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19103"},"code":"J9","name":"Guinee Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19104"},"code":"J9","name":"Jazeera Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19105"},"code":"JA","name":"B H Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19106"},"code":"JB","name":"Helijet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19107"},"code":"JC","name":"JAL Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19108"},"code":"JD","name":"Japan Air System"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19109"},"code":"JE","name":"Mango"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1910a"},"code":"JF","name":"Jetairfly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1910b"},"code":"JF","name":"L.A.B. Flying Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1910c"},"code":"JH","name":"Fuji Dream Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1910d"},"code":"JH","name":"Nordeste Linhas Aereas Regionais"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1910e"},"code":"JI","name":"Midway Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1910f"},"code":"JJ","name":"Tam Linhas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19110"},"code":"JK","name":"Spanair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19111"},"code":"JL","name":"Japan International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19112"},"code":"JM","name":"Air Jamaica"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19113"},"code":"JN","name":"Excel Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19114"},"code":"JO","name":"JALways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19115"},"code":"JP","name":"Adria Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19116"},"code":"JQ","name":"Jetstar Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19117"},"code":"JR","name":"Joy Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19118"},"code":"JR","name":"Aero California"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19119"},"code":"JS","name":"Air Koryo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1911a"},"code":"JT","name":"Lion Mentari Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1911b"},"code":"JU","name":"Jat"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1911c"},"code":"JV","name":"Bearskin Lake Air Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1911d"},"code":"JW","name":"Arrow Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1911e"},"code":"JX","name":"Jett8 Airlines Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1911f"},"code":"JX","name":"Jusur airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19120"},"code":"JY","name":"Aereonautica militare"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19121"},"code":"JY","name":"Air Turks and Caicos"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19122"},"code":"JZ","name":"Skyways Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19123"},"code":"K1","name":"Kostromskie avialinii"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19124"},"code":"K2","name":"Eurolot"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19125"},"code":"K4","name":"Kalitta Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19126"},"code":"K5","name":"Wings of Alaska"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19127"},"code":"K5","name":"Wings of Alaska"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19128"},"code":"K5","name":"Wings of Alaska"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19129"},"code":"K6","name":"Cambodia Angkor Air (K6)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1912a"},"code":"K6","name":"Bravo Air Congo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1912b"},"code":"K7","name":"KoralBlue Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1912c"},"code":"K8","name":"Zambia Skyways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1912d"},"code":"K8","name":"Airlink Zambia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1912e"},"code":"K9","name":"Krylo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1912f"},"code":"KA","name":"Dragonair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19130"},"code":"KB","name":"Druk Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19131"},"code":"KC","name":"Astana"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19132"},"code":"KD","name":"KD Avia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19133"},"code":"KE","name":"Korean Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19134"},"code":"KF","name":"Blue1"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19135"},"code":"KG","name":"LAI - Linea Aerea IAACA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19136"},"code":"KH","name":"Cook Island Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19137"},"code":"KI","name":"Air Atlantique"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19138"},"code":"KI","name":"Adam Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19139"},"code":"KJ","name":"British Mediterranean Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1913a"},"code":"KK","name":"Atlasjet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1913b"},"code":"KL","name":"KLM"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1913c"},"code":"KM","name":"Malta"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1913d"},"code":"KN","name":"China United"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1913e"},"code":"KO","name":"Alaska Central Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1913f"},"code":"KP","name":"Compagnie Aerienne Asky"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19140"},"code":"KP","name":"Compagnie Aerienne Asky"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19141"},"code":"KQ","name":"Kenya Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19142"},"code":"KR","name":"Bishkek"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19143"},"code":"KS","name":"Peninsula Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19144"},"code":"KT","name":"California Western"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19145"},"code":"KT","name":"VickJet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19146"},"code":"KU","name":"Kuwait Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19147"},"code":"KV","name":"Asian Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19148"},"code":"KW","name":"Carnival Air Lines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19149"},"code":"KX","name":"Cayman Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1914a"},"code":"KY","name":"Air S"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1914b"},"code":"KY","name":"KSY"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1914c"},"code":"KY","name":"Kibris T"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1914d"},"code":"KZ","name":"Nippon Cargo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1914e"},"code":"L1","name":"Lufthansa Systems"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1914f"},"code":"L2","name":"Lynden Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19150"},"code":"L3","name":"DHL de Guatemala"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19151"},"code":"L3","name":"LTU Austria"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19152"},"code":"L4","name":"Luchsh Airlines "}
+{"_id":{"$oid":"5934cf3741d04ab0bda19153"},"code":"L5","name":"Lufttransport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19154"},"code":"L6","name":"Tbilaviamsheni"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19155"},"code":"L7","name":"Lugansk Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19156"},"code":"L7","name":"Linea Aerea SAPSA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19157"},"code":"L7","name":"Laoag International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19158"},"code":"L8","name":"Line Blue"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19159"},"code":"L8","name":"Air Luxor GB"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1915a"},"code":"L9","name":"Teamline Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1915b"},"code":"LA","name":"Lan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1915c"},"code":"LB","name":"Lloyd Aereo Boliviano"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1915d"},"code":"LC","name":"Varig Log"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1915e"},"code":"LD","name":"Air Hong Kong"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1915f"},"code":"LD","name":"Linea Turistica Aerotuy"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19160"},"code":"LF","name":"FlyNordic"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19161"},"code":"LG","name":"Luxair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19162"},"code":"LH","name":"Lufthansa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19163"},"code":"LH","name":"Lufthansa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19164"},"code":"LI","name":"Liat"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19165"},"code":"LJ","name":"Jin Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19166"},"code":"LJ","name":"Sierra National Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19167"},"code":"LK","name":"Air Luxor"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19168"},"code":"LL","name":"Allegro"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19169"},"code":"LM","name":"Linhas A"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1916a"},"code":"LM","name":"Livingston"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1916b"},"code":"LN","name":"Libyan Arab Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1916c"},"code":"LO","name":"Lot - Polish"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1916d"},"code":"LP","name":"LAN Peru"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1916e"},"code":"LQ","name":"Lebanese Air Transport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1916f"},"code":"LQ","name":"LCM AIRLINES"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19170"},"code":"LR","name":"Lacsa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19171"},"code":"LS","name":"Jet2.com"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19172"},"code":"LT","name":"LTU Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19173"},"code":"LU","name":"LAN Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19174"},"code":"LV","name":"Albanian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19175"},"code":"LW","name":"Pacific Wings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19176"},"code":"LX","name":"Swiss"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19177"},"code":"LY","name":"EL AL ISRAEL AIRLINES"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19178"},"code":"LZ","name":"Balkan Bulgarian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19179"},"code":"M0","name":"Aero Mongolia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1917a"},"code":"M2","name":"Mahfooz Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1917b"},"code":"M3","name":"North Flying"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1917c"},"code":"M3","name":"Air Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1917d"},"code":"M3","name":"ABSA - Aerolinhas Brasileiras"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1917e"},"code":"M4","name":"Marysya Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1917f"},"code":"M4","name":"Nova Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19180"},"code":"M5","name":"Kenmore Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19181"},"code":"M6","name":"Amerijet International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19182"},"code":"M7","name":"MasAir"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19183"},"code":"M7","name":"Marsland Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19184"},"code":"M7","name":"Tropical Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19185"},"code":"M8","name":"Trans Maldivian Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19186"},"code":"M9","name":"Motor Sich"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19187"},"code":"MA","name":"Malév"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19188"},"code":"MB","name":"Execair Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19189"},"code":"MB","name":"MNG Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1918a"},"code":"MC","name":"Air Mobility Command"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1918b"},"code":"MD","name":"Madagaskar"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1918c"},"code":"ME","name":"Middle East"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1918d"},"code":"MF","name":"Xiamen Iamen"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1918e"},"code":"MG","name":"Champion Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1918f"},"code":"MH","name":"Malaysia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19190"},"code":"MI","name":"Silk Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19191"},"code":"MJ","name":"L"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19192"},"code":"MK","name":"Mauritius"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19193"},"code":"ML","name":"African Transport Trading and Investment Company"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19194"},"code":"ML","name":"Maldivo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19195"},"code":"MM","name":"Peach Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19196"},"code":"MM","name":"EuroAtlantic Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19197"},"code":"MM","name":"SAM Colombia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19198"},"code":"MN","name":"Comair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19199"},"code":"MO","name":"Abu Dhabi Amiri Flight"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1919a"},"code":"MO","name":"Calm Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1919b"},"code":"MP","name":"Martinair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1919c"},"code":"MQ","name":"American Eagle Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1919d"},"code":"MR","name":"Mongolian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1919e"},"code":"MR","name":"Mongolian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1919f"},"code":"MS","name":"Egyptair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a0"},"code":"MT","name":"Thomas Cook Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a1"},"code":"MU","name":"China Eastern"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a2"},"code":"MV","name":"Armenian International Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a3"},"code":"MW","name":"Maya Island Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a4"},"code":"MX","name":"Mexicana"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a5"},"code":"MY","name":"Midwest Airlines (Egypt)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a6"},"code":"MY","name":"Maxjet Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a7"},"code":"MZ","name":"Merpati Nusantara Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a8"},"code":"N0","name":"Norte Lineas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191a9"},"code":"N1","name":"N1"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191aa"},"code":"N2","name":"Dagestan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ab"},"code":"N2","name":"Kabo Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ac"},"code":"N3","name":"Omskavia Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ad"},"code":"N4","name":"Minerva Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ae"},"code":"N4","name":"Mountain Air Company"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191af"},"code":"N4","name":"National Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b0"},"code":"N5","name":"Kyrgyz Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b1"},"code":"N5","name":"Skagway Air Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b2"},"code":"N6","name":"Aerocontinente (Priv)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b3"},"code":"N6","name":"Nuevo Continente"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b4"},"code":"N6","name":"Lagun Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b5"},"code":"N7","name":"National Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b6"},"code":"N8","name":"Fika Salaama Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b7"},"code":"N9","name":"North Coast Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b8"},"code":"NA","name":"Al-Naser Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191b9"},"code":"NA","name":"National Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ba"},"code":"NB","name":"Sterling Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191bb"},"code":"NC","name":"Northern Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191bc"},"code":"NC","name":"National Jet Systems"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191bd"},"code":"NE","name":"SkyEurope"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191be"},"code":"NF","name":"Vanuatu"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191bf"},"code":"NG","name":"Lauda Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c0"},"code":"NH","name":"All Nippon Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c1"},"code":"NI","name":"Portugalia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c2"},"code":"NJ","name":"Nihon.jet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c3"},"code":"NJ","name":"Nordic Global Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c4"},"code":"NK","name":"Spirit Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c5"},"code":"NL","name":"Shaheen Air International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c6"},"code":"NM","name":"Air Madrid"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c7"},"code":"NM","name":"Mount Cook Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c8"},"code":"NN","name":"VIM Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191c9"},"code":"NO","name":"Aus-Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ca"},"code":"NO","name":"Neos"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191cb"},"code":"NP","name":"Nile Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191cc"},"code":"NQ","name":"Air Japan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191cd"},"code":"NR","name":"Pamir Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ce"},"code":"NS","name":"Caucasus Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191cf"},"code":"NT","name":"Binter Canarias"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d0"},"code":"NU","name":"Japan Transocean"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d1"},"code":"NV","name":"Air Central"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d2"},"code":"NW","name":"Northwest Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d3"},"code":"NX","name":"Air Macau"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d4"},"code":"NY","name":"Air Iceland"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d5"},"code":"NZ","name":"New Zealand Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d6"},"code":"O1","name":"Orbit Airlines Azerbaijan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d7"},"code":"O2","name":"Oceanic Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d8"},"code":"O6","name":"Oceanair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191d9"},"code":"O7","name":"Оренбургские"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191da"},"code":"O8","name":"Oasis Hong Kong Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191db"},"code":"OA","name":"Olympic Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191dc"},"code":"OB","name":"Astrakhan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191dd"},"code":"OC","name":"Catovair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191de"},"code":"OD","name":"Zuliana de Aviacion"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191df"},"code":"OE","name":"Asia Overnight Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e0"},"code":"OF","name":"Transports et Travaux A"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e1"},"code":"OF","name":"Air Finland"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e2"},"code":"OG","name":"ONIX"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e3"},"code":"OH","name":"Comair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e4"},"code":"OI","name":"Orchid Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e5"},"code":"OJ","name":"Overland Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e6"},"code":"OK","name":"Czech Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e7"},"code":"OL","name":"Ostfriesische Lufttransport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e8"},"code":"OM","name":"Miat Mongolian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191e9"},"code":"ON","name":"Nauru Air Corporation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ea"},"code":"OO","name":"SkyWest"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191eb"},"code":"OP","name":"Chalk's Ocean Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ec"},"code":"OQ","name":"Chongqing Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ed"},"code":"OR","name":"Tui Nederland Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ee"},"code":"OS","name":"Austrian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ef"},"code":"OT","name":"Aeropelican Air Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f0"},"code":"OU","name":"Croatia Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f1"},"code":"OV","name":"Estonian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f2"},"code":"OW","name":"Executive Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f3"},"code":"OX","name":"Orient Thai Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f4"},"code":"OY","name":"Andes Lineas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f5"},"code":"OZ","name":"Asiana Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f6"},"code":"OZ","name":"Asiana Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f7"},"code":"P0","name":"Proflight Commuter Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f8"},"code":"P4","name":"Patriot Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191f9"},"code":"P5","name":"AeroRep"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191fa"},"code":"P7","name":"Russian Sky Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191fb"},"code":"P7","name":"Regional Paraguaya"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191fc"},"code":"P8","name":"Air Mekong"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191fd"},"code":"P8","name":"Pantanal Linhas Aéreas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191fe"},"code":"P9","name":"Nas Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda191ff"},"code":"P9","name":"Perm Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19200"},"code":"PA","name":"Florida Coastal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19201"},"code":"PA","name":"Parmiss Airlines (IPV)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19202"},"code":"PA","name":"Pan American Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19203"},"code":"PC","name":"Pegasus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19204"},"code":"PC","name":"Pegasus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19205"},"code":"PC","name":"Pegasus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19206"},"code":"PD","name":"Porter Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19207"},"code":"PE","name":"Air Europe"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19208"},"code":"PF","name":"Primera Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19209"},"code":"PF","name":"Palestinian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1920a"},"code":"PG","name":"Bangkok Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1920b"},"code":"PH","name":"Polynesian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1920c"},"code":"PI","name":"Piedmont Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1920d"},"code":"PI","name":"Sunflower Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1920e"},"code":"PJ","name":"Air Saint Pierre"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1920f"},"code":"PK","name":"Pakistan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19210"},"code":"PL","name":"Airstars"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19211"},"code":"PL","name":"Aeroper"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19212"},"code":"PM","name":"Tropic Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19213"},"code":"PN","name":"West Air China"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19214"},"code":"PO","name":"Polar Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19215"},"code":"PP","name":"Air Indus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19216"},"code":"PQ","name":"LSM Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19217"},"code":"PQ","name":"Panafrican Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19218"},"code":"PR","name":"Philippine Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19219"},"code":"PS","name":"UIA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1921a"},"code":"PS","name":"UIA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1921b"},"code":"PT","name":"Red Jet Andes"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1921c"},"code":"PT","name":"Capital Cargo International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1921d"},"code":"PT","name":"West Air Sweden"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1921e"},"code":"PU","name":"PLUNA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1921f"},"code":"PV","name":"PAN Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19220"},"code":"PW","name":"Precision Air Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19221"},"code":"PX","name":"Air Niugini"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19222"},"code":"PY","name":"Surinam Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19223"},"code":"PZ","name":"TAM"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19224"},"code":"Q2","name":"Maldivian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19225"},"code":"Q3","name":"Zambian Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19226"},"code":"Q4","name":"Mastertop Linhas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19227"},"code":"Q5","name":"40-Mile Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19228"},"code":"Q6","name":"Aero Condor Peru"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19229"},"code":"Q8","name":"Pacific East Asia Cargo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1922a"},"code":"Q9","name":"Afrinat International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1922b"},"code":"Q9","name":"Arik Niger"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1922c"},"code":"QA","name":"Click (Mexicana)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1922d"},"code":"QB","name":"Georgian National Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1922e"},"code":"QC","name":"Camair-co"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1922f"},"code":"QC","name":"Air Corridor"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19230"},"code":"QD","name":"Air Class Lineas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19231"},"code":"QE","name":"Crossair Europe"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19232"},"code":"QF","name":"QANTAS"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19233"},"code":"QH","name":"Kyrgyzstan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19234"},"code":"QH","name":"Kyrgyzstan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19235"},"code":"QI","name":"Cimber Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19236"},"code":"QJ","name":"Jet Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19237"},"code":"QK","name":"Air Canada Jazz"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19238"},"code":"QL","name":"Aero Lanka"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19239"},"code":"QM","name":"Air Malawi"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1923a"},"code":"QN","name":"Air Armenia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1923b"},"code":"QO","name":"Aeromexpress"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1923c"},"code":"QO","name":"Origin Pacific Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1923d"},"code":"QQ","name":"Reno Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1923e"},"code":"QQ","name":"Alliance Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1923f"},"code":"QR","name":"Qatar"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19240"},"code":"QS","name":"Smartwings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19241"},"code":"QS","name":"Smartwings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19242"},"code":"QT","name":"TAMPA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19243"},"code":"QU","name":"Utair Ukraine"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19244"},"code":"QV","name":"Lao"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19245"},"code":"QW","name":"Blue Wings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19246"},"code":"QX","name":"Horizon Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19247"},"code":"QY","name":"Red Jet Canada"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19248"},"code":"QY","name":"European Air Transport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19249"},"code":"QZ","name":"Indonesia AirAsia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1924a"},"code":"R0","name":"Royal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1924b"},"code":"R1","name":"Sirin"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1924d"},"code":"R2","name":"Orenair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1924e"},"code":"R3","name":"Yakutia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1924f"},"code":"R4","name":"Rossiya"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19250"},"code":"R5","name":"Jordan Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19251"},"code":"R5","name":"Malta Air Charter"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19252"},"code":"R6","name":"RACSA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19253"},"code":"R7","name":"Aserca Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19254"},"code":"R8","name":"Kyrgyzstan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19255"},"code":"R8","name":"AirRussia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19256"},"code":"R9","name":"Camai Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19257"},"code":"RA","name":"Nepal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19258"},"code":"RB","name":"Air Srpska"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19259"},"code":"RB","name":"Syrian Arab Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1925a"},"code":"RC","name":"Atlantic Airways Faroe Islands"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1925b"},"code":"RD","name":"Ryan International Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1925c"},"code":"RE","name":"Aer Arann"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1925d"},"code":"RF","name":"Florida West International Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1925e"},"code":"RG","name":"VRG Linhas Aereas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1925f"},"code":"RH","name":"Republic Express Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19260"},"code":"RI","name":"Mandala Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19261"},"code":"RJ","name":"Royal Jordanian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19262"},"code":"RK","name":"Air Afrique"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19263"},"code":"RK","name":"Royal Khmer Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19264"},"code":"RL","name":"Royal Falcon"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19265"},"code":"RO","name":"Tarom - Romanian Transport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19266"},"code":"RP","name":"Chautauqua Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19267"},"code":"RQ","name":"Kam Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19268"},"code":"RR","name":"Red Jet America"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19269"},"code":"RR","name":"Royal Air Force"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1926a"},"code":"RS","name":"Sky Regional"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1926b"},"code":"RS","name":"Intercontinental de Aviaci"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1926c"},"code":"RS","name":"Royal Air Force of Oman"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1926d"},"code":"RU","name":"AirBridge Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1926e"},"code":"RU","name":"SkyKing Turks and Caicos Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1926f"},"code":"RV","name":"Caspian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19270"},"code":"RW","name":"Republic Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19271"},"code":"RX","name":"Aviaexpress"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19272"},"code":"RY","name":"Reno Sky"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19273"},"code":"RZ","name":"Euro Exec Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19274"},"code":"S0","name":"Slok Air Gambia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19275"},"code":"S1","name":"Serbian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19276"},"code":"S2","name":"Jet Lite"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19277"},"code":"S3","name":"Santa Barbara"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19278"},"code":"S4","name":"Sata International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19279"},"code":"S5","name":"Shuttle America"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1927a"},"code":"S5","name":"Trast Aero"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1927b"},"code":"S6","name":"Star Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1927c"},"code":"S7","name":"S7"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1927d"},"code":"S8","name":"Chari Aviation Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1927e"},"code":"S8","name":"Shovkoviy Shlyah"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1927f"},"code":"S9","name":"Starbow Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19280"},"code":"S9","name":"East African Safari Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19281"},"code":"SA","name":"South African"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19282"},"code":"SB","name":"Caledonie"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19283"},"code":"SC","name":"Shandong Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19284"},"code":"SD","name":"Sudan Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19285"},"code":"SE","name":"XL Airways France"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19286"},"code":"SF","name":"Air Charter International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19287"},"code":"SF","name":"Tassili Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19288"},"code":"SG","name":"JetsGo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19289"},"code":"SG","name":"Spicejet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1928a"},"code":"SH","name":"TAN-SAHSA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1928b"},"code":"SH","name":"Fly Me Sweden"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1928c"},"code":"SH","name":"Sharp Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1928d"},"code":"SI","name":"Skynet Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1928e"},"code":"SJ","name":"Sriwijaya Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1928f"},"code":"SK","name":"SAS"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19290"},"code":"SL","name":"Rio Sul Servi"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19291"},"code":"SM","name":"Spirit of Manila Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19292"},"code":"SM","name":"Swedline Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19293"},"code":"SN","name":"Brussels Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19294"},"code":"SO","name":"Superior Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19295"},"code":"SO","name":"Sosoliso Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19296"},"code":"SO","name":"Salsa d'Haiti"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19297"},"code":"SP","name":"Sata Acores Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19298"},"code":"SQ","name":"Singapore"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19299"},"code":"SQ","name":"Singapore"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1929a"},"code":"SR","name":"Swissair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1929b"},"code":"SS","name":"Corsair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1929c"},"code":"ST","name":"Germania"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1929d"},"code":"SU","name":"Aeroflot"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1929e"},"code":"SV","name":"Saudi Arabian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1929f"},"code":"SW","name":"Namibia Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a0"},"code":"SX","name":"Skywork Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a1"},"code":"SX","name":"Skywork Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a2"},"code":"SX","name":"Skywork Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a3"},"code":"SY","name":"Sun Country Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a4"},"code":"SZ","name":"Somon Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a5"},"code":"T0","name":"TACA Peru"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a6"},"code":"T1","name":"TROPICAL LINHAS AEREAS"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a7"},"code":"T2","name":"Thai Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a8"},"code":"T3","name":"Eastern Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192a9"},"code":"T4","name":"Hellas Jet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192aa"},"code":"T5","name":"Turkmenhowayollary"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ab"},"code":"T6","name":"Trans Pas Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ac"},"code":"T6","name":"Tavrey Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ad"},"code":"T7","name":"Twin Jet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ae"},"code":"T8","name":"TAN"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192af"},"code":"T9","name":"TransMeridian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b0"},"code":"T9","name":"Thai Star Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b1"},"code":"TA","name":"Taca International"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b2"},"code":"TB","name":"Shuttle (Usair Shuttle)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b3"},"code":"TB","name":"Shuttle (Usair Shuttle)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b4"},"code":"TC","name":"Tanzania Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b5"},"code":"TD","name":"Atlantis European Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b6"},"code":"TD","name":"Tulip Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b7"},"code":"TE","name":"FlyLal"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b8"},"code":"TF","name":"Malmo Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192b9"},"code":"TG","name":"Thai Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ba"},"code":"TH","name":"BA Connect"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192bb"},"code":"TH","name":"TransBrasil Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192bc"},"code":"TH","name":"Transmile Air Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192bd"},"code":"TI","name":"TransHolding"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192be"},"code":"TI","name":"Tol-Air Services"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192bf"},"code":"TJ","name":"Tradewind Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c0"},"code":"TK","name":"Turkish Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c1"},"code":"TL","name":"Airnorth"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c2"},"code":"TL","name":"Trans Mediterranean Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c3"},"code":"TM","name":"Lam Mozambique"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c4"},"code":"TN","name":"Tahiti Nui Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c5"},"code":"TO","name":"President Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c6"},"code":"TO","name":"Transavia France"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c7"},"code":"TP","name":"Tap Portugal Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c8"},"code":"TQ","name":"Tandem Aero"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192c9"},"code":"TQ","name":"Texas Wings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ca"},"code":"TR","name":"Tiger Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192cb"},"code":"TS","name":"Air Transat"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192cc"},"code":"TT","name":"Air Lithuania"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192cd"},"code":"TT","name":"Tiger Airways Australia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ce"},"code":"TU","name":"Tunis Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192cf"},"code":"TV","name":"Virgin Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d0"},"code":"TW","name":"Trans World Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d1"},"code":"TW","name":"Tway Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d2"},"code":"TX","name":"Caraibes"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d3"},"code":"TY","name":"Iberworld"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d4"},"code":"TY","name":"Air Cal"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d5"},"code":"TZ","name":"Scoot"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d6"},"code":"U1","name":"AirOne Polska"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d7"},"code":"U1","name":"Aviabus"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d8"},"code":"U2","name":"United Feeder Service"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192d9"},"code":"U2","name":"easyJet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192da"},"code":"U3","name":"Avies"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192db"},"code":"U4","name":"PMTair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192dc"},"code":"U5","name":"USA3000 Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192dd"},"code":"U6","name":"Ural"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192de"},"code":"U7","name":"Air Uganda"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192df"},"code":"U7","name":"Air Uganda"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e0"},"code":"U8","name":"Armavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e1"},"code":"U9","name":"Tatarstan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e2"},"code":"UA","name":"United Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e3"},"code":"UB","name":"Myanma Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e4"},"code":"UD","name":"Hex'Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e5"},"code":"UE","name":"Nasair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e6"},"code":"UE","name":"Transeuropean Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e7"},"code":"UF","name":"UM Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e8"},"code":"UG","name":"Tuninter"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192e9"},"code":"UH","name":"US Helicopter Corporation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ea"},"code":"UI","name":"Eurocypria Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192eb"},"code":"UJ","name":"AlMasria Universal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ec"},"code":"UK","name":"Air UK"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ed"},"code":"UK","name":"buzz"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ee"},"code":"UL","name":"Srilankan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ef"},"code":"UM","name":"Air Zimbabwe"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f0"},"code":"UN","name":"Transaero"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f1"},"code":"UO","name":"Hong Kong Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f2"},"code":"UP","name":"Bahamasair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f3"},"code":"UQ","name":"O'Connor Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f4"},"code":"UQ","name":"Skyjet Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f5"},"code":"UR","name":"Utair-Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f6"},"code":"US","name":"US Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f7"},"code":"UT","name":"Utair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f8"},"code":"UU","name":"Austral Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192f9"},"code":"UX","name":"Europa Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192fa"},"code":"UY","name":"Caucasus Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192fb"},"code":"UZ","name":"El-Buraq Air Transport"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192fc"},"code":"V0","name":"Conviasa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192fd"},"code":"V2","name":"Karat"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192fe"},"code":"V2","name":"Vision Airlines (V2)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda192ff"},"code":"V3","name":"Carpatair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19300"},"code":"V4","name":"Reem Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19301"},"code":"V5","name":"Danube Wings (V5)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19302"},"code":"V5","name":"Royal Aruban Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19303"},"code":"V5","name":"Avolar Aerolineas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19304"},"code":"V6","name":"VIP Ecuador"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19305"},"code":"V7","name":"Volotea"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19306"},"code":"V8","name":"ATRAN Cargo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19307"},"code":"V9","name":"BAL Bashkirian Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19308"},"code":"V9","name":"Star1 Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19309"},"code":"VA","name":"Vaustralia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1930a"},"code":"VA","name":"Vaustralia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1930b"},"code":"VB","name":"Birmingham European"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1930c"},"code":"VC","name":"Strategic Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1930d"},"code":"VC","name":"Voyageur Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1930e"},"code":"VC","name":"Ocean Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1930f"},"code":"VD","name":"Air Libert"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19310"},"code":"VD","name":"SwedJet Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19311"},"code":"VD","name":"Kunpeng Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19312"},"code":"VE","name":"Avensa"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19313"},"code":"VE","name":"EUjet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19314"},"code":"VE","name":"Volare Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19315"},"code":"VF","name":"Valuair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19316"},"code":"VG","name":"VLM Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19317"},"code":"VH","name":"Virgin Pacific"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19318"},"code":"VI","name":"Volga-Dnepr Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19319"},"code":"VJ","name":"Jatayu Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1931a"},"code":"VJ","name":"Royal Air Cambodge"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1931b"},"code":"VK","name":"Virgin Nigeria Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1931c"},"code":"VL","name":"Air VIA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1931d"},"code":"VM","name":"Viaggio Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1931e"},"code":"VN","name":"Vietnam"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1931f"},"code":"VO","name":"Austrian Arrows"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19320"},"code":"VP","name":"VASP"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19321"},"code":"VQ","name":"Viking Hellas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19322"},"code":"VR","name":"TACV CABO VERDE AIRLINES"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19323"},"code":"VS","name":"Virgin Atlantic"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19324"},"code":"VT","name":"Air Tahiti"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19325"},"code":"VU","name":"Air Ivoire"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19326"},"code":"VV","name":"Aerosvit"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19327"},"code":"VW","name":"Transportes Aeromar"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19328"},"code":"VX","name":"Virgin America"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19329"},"code":"VY","name":"Vueling Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1932a"},"code":"VY","name":"Vueling Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1932b"},"code":"VZ","name":"MyTravel Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1932c"},"code":"W1","name":"World Experience Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1932d"},"code":"W2","name":"Flex Flight"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1932e"},"code":"W3","name":"Arik Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1932f"},"code":"W4","name":"Aero Services Executive"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19330"},"code":"W4","name":"AeroWorld "}
+{"_id":{"$oid":"5934cf3741d04ab0bda19331"},"code":"W5","name":"Mahan Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19332"},"code":"W6","name":"Wizz Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19333"},"code":"W7","name":"Austral Brasil"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19334"},"code":"W8","name":"Cargojet Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19335"},"code":"W9","name":"Abelag Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19336"},"code":"W9","name":"Air Bagan"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19337"},"code":"W9","name":"Eastwind Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19338"},"code":"WA","name":"KLM Cityhopper"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19339"},"code":"WA","name":"Western Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1933a"},"code":"WB","name":"Rwandair Limited"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1933b"},"code":"WC","name":"Islena De Inversiones"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1933c"},"code":"WD","name":"Amsterdam Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1933d"},"code":"WD","name":"DAS Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1933e"},"code":"WE","name":"Centurion Air Cargo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1933f"},"code":"WF","name":"Widerøe"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19340"},"code":"WG","name":"Sunwing"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19341"},"code":"WG","name":"Sunwing Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19342"},"code":"WG","name":"Worldways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19343"},"code":"WH","name":"China Northwest Airlines (WH)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19344"},"code":"WH","name":"China Northwest Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19345"},"code":"WJ","name":"WebJet Linhas A"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19346"},"code":"WK","name":"American Falcon"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19347"},"code":"WK","name":"Edelweiss Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19348"},"code":"WM","name":"Windward Islands"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19349"},"code":"WN","name":"Southwest Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1934a"},"code":"WO","name":"World Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1934b"},"code":"WP","name":"Island Air (WP)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1934c"},"code":"WQ","name":"PanAm World Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1934d"},"code":"WR","name":"Royal Tongan Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1934e"},"code":"WS","name":"Westjet Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1934f"},"code":"WU","name":"Wizz Air Ukraine"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19350"},"code":"WV","name":"Swe Fly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19351"},"code":"WW","name":"bmibaby"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19352"},"code":"WX","name":"CityJet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19353"},"code":"WY","name":"Oman Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19354"},"code":"WZ","name":"Red Wings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19355"},"code":"X1","name":"Nik Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19356"},"code":"X3","name":"TUIfly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19357"},"code":"X7","name":"Chitaavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19358"},"code":"XB","name":"NEXT Brasil"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19359"},"code":"XE","name":"ExpressJet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1935a"},"code":"XF","name":"Vladivostok Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1935b"},"code":"XG","name":"Calima Aviacion"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1935c"},"code":"XJ","name":"Mesaba Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1935d"},"code":"XK","name":"Corse-Mediterranee"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1935e"},"code":"XL","name":"Lanecuador"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1935f"},"code":"XM","name":"Alitalia Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19360"},"code":"XN","name":"Xpressair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19361"},"code":"XO","name":"China Xinhua Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19362"},"code":"XO","name":"LTE International Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19363"},"code":"XP","name":"Xtra Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19364"},"code":"XQ","name":"Sun Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19365"},"code":"XR","name":"Skywest Australia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19366"},"code":"XS","name":"SITA"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19367"},"code":"XS","name":"Texas Spirit"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19368"},"code":"XT","name":"Air Exel"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19369"},"code":"XV","name":"BVI Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1936a"},"code":"XW","name":"Sky Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1936b"},"code":"XX","name":"Greenfly"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1936c"},"code":"XY","name":"Nas Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1936d"},"code":"XZ","name":"Congo Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1936e"},"code":"Y0","name":"Yellow Air Taxi"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1936f"},"code":"Y1","name":"Yellowstone Club Private Shuttle"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19370"},"code":"Y4","name":"Volaris"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19371"},"code":"Y5","name":"Asia Wings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19372"},"code":"Y5","name":"Pace Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19373"},"code":"Y7","name":"Taimyr"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19374"},"code":"Y8","name":"Marusya Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19375"},"code":"Y8","name":"Yangtze River Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19376"},"code":"Y9","name":"Kish Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19377"},"code":"YC","name":"Yamal"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19378"},"code":"YD","name":"Gomelavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19379"},"code":"YI","name":"TUR Avrupa Hava YollarÄ±"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1937a"},"code":"YK","name":"Cyprus Turkish Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1937b"},"code":"YL","name":"Yamal Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1937c"},"code":"YM","name":"Montenegro Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1937d"},"code":"YO","name":"Heli Air Monaco"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1937e"},"code":"YP","name":"Aero Lloyd (YP)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1937f"},"code":"YQ","name":"Polet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19380"},"code":"YR","name":"SENIC AIRLINES"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19381"},"code":"YS","name":"Régional"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19382"},"code":"YT","name":"Yeti Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19383"},"code":"YT","name":"Air Togo"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19384"},"code":"YV","name":"Mesa Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19385"},"code":"YW","name":"Air Nostrum"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19386"},"code":"YX","name":"Midwest Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19387"},"code":"YY","name":"Virginwings"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19388"},"code":"YZ","name":"LSM AIRLINES "}
+{"_id":{"$oid":"5934cf3741d04ab0bda19389"},"code":"Z2","name":"Zest Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1938a"},"code":"Z3","name":"Avient Aviation"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1938b"},"code":"Z4","name":"Zagrosjet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1938c"},"code":"Z4","name":"Zoom Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1938d"},"code":"Z6","name":"Dnieproavia"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1938e"},"code":"Z7","name":"Zimbabwean Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1938f"},"code":"Z7","name":"ADC Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19390"},"code":"Z8","name":"Amaszonas"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19391"},"code":"ZA","name":"Access Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19392"},"code":"ZA","name":"Interavia Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19393"},"code":"ZB","name":"Air Bourbon"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19394"},"code":"ZB","name":"Monarch Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19395"},"code":"ZC","name":"Korongo Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19396"},"code":"ZE","name":"Arcus-Air Logistic"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19397"},"code":"ZE","name":"Eastar Jet"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19398"},"code":"ZE","name":"Lineas Aereas Azteca"}
+{"_id":{"$oid":"5934cf3741d04ab0bda19399"},"code":"ZF","name":"Athens Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1939a"},"code":"ZG","name":"Groznyy"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1939b"},"code":"ZH","name":"Shenzhen Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1939c"},"code":"ZI","name":"Aigle Azur"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1939d"},"code":"ZJ","name":"Zambezi Airlines (ZMA)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1939e"},"code":"ZK","name":"Great Lakes Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda1939f"},"code":"ZL","name":"Regional Express"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a0"},"code":"ZN","name":"Zenith International Airline"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a1"},"code":"ZP","name":"Silk Way Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a2"},"code":"ZP","name":"Zabaykalskii Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a3"},"code":"ZQ","name":"Annsett New Zealand (NZA)"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a4"},"code":"ZQ","name":"Locair"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a5"},"code":"ZS","name":"Sama Airlines"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a6"},"code":"ZT","name":"Titan Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a7"},"code":"ZU","name":"Helios Airways"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a8"},"code":"ZV","name":"Air Midwest"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193a9"},"code":"ZW","name":"Air Wisconsin"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193aa"},"code":"ZX","name":"Air Georgian"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193ab"},"code":"ZX","name":"Japan Regio"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193ac"},"code":"ZY","name":"Ada Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193ad"},"code":"ZZ","name":"Zz"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193ae"},"code":"^^","name":"Whitaker Air"}
+{"_id":{"$oid":"5934cf3741d04ab0bda193af"},"code":"МИ","name":"KMV"}
