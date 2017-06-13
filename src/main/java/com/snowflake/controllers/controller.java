@@ -50,11 +50,16 @@ public class controller {
 	
 	@RequestMapping("/getFlightDetails")
 	public String getFlightDetails(@RequestParam String originAirport,@RequestParam String destinationAirport, Model model) throws JsonParseException, JsonMappingException, IOException{
+		Flight[] flight;
+		try{
 		String origin= mongoService.getIcao(originAirport);
 		String destination= mongoService.getIcao(destinationAirport);
 		String uri= "https://api.laminardata.aero/v1/aerodromes/"+origin+"/destinations/"+destination+"/flights?user_key=f82ac2afe027607fc1d2077ca4181b45";
 		RestTemplate restTemplate= new RestTemplate();
-		Flight[] flight = restTemplate.getForObject(uri, Flight[].class);
+		flight = restTemplate.getForObject(uri, Flight[].class);
+		}catch(Exception e){
+			return "flightNotFound";
+		}
 		List<Flight> al= Arrays.asList(flight);
 		List<Flight> result= generalServices.mapFlightCarriers(al);
 		model.addAttribute("originDestinationFlights",result);
